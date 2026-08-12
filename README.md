@@ -25,6 +25,6 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  ▸ 🚀 Dev centrado en Web, Software y Soluciones Tech        │
 │  ▸ 🐧 Apasionado de Linux, Ciberseguridad y Hardware         │
-│  ▸ ⚡ Creador de NeoCharge, Sound Habana y Zenith Center    │
+│  ▸ ⚡ Creador de NeoCharge, Sound Habana y Zenith Center     │
 │  ▸ 🎧 Pixel Art, Retro Gaming, Música y Código               │
 └──────────────────────────────────────────────────────────────┘
